@@ -13,6 +13,9 @@ Consulta los criterios y el formato para añadir empresas en [CONTRIBUTING.md](.
 
 El listado tiene una licencia [Creative Commons 0](LICENSE).
 
+
+www.codeandopythonspain.blogspot.com
+
 ## Directorio de empresas
 
 #### [Bitergia](http://bitergia.com)
